@@ -24,6 +24,7 @@ Repository|Domain|Content
 [Train_document_classification](https://github.com/DALAI-project/Train_document_classification)|Image Classification|Code for training a neural network model to classify input documents into distinct classes based on the type/format of the document.
 [Train_fault_detection](https://github.com/DALAI-project/Train_fault_detection)|Image Classification|Code for training a neural network model to detect faults like folded corners or sticky notes from document images.
 [Train_writing_type](https://github.com/DALAI-project/Train_writing_type)|Image Classification|Code for training a neural network model to classify document images based on the writing types(s) (handwritten, typewritten, combination) they contain.
+[Table_segmentation](https://github.com/DALAI-project/Table_segmentation)|Image Segmentation|Code for segmenting table structures and detecting text content in document images.
 
 </details>
 
