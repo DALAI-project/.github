@@ -29,3 +29,8 @@ Repository|Domain|Content
 </details>
 
 Some of the tools are also available via [Arkkiivi](http://www.arkkiivi.fi/) web user interface. 
+
+<p float="left">
+  <img src="https://github.com/DALAI-project/.github/blob/main/EU_EAKR_EN_vertical_20mm_rgb.png"  width="10%" height="10%">
+  <img src="https://github.com/DALAI-project/.github/blob/main/leverageEU_2014_2020_rgb.png"  width="18%" height="18%">
+</p>
